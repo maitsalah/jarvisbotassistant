@@ -1,0 +1,41 @@
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\Bot Application1.dll.config
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\Bot Application1.dll
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\Bot Application1.pdb
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\Autofac.dll
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\Chronic.dll
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\Newtonsoft.Json.dll
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\System.Net.Http.Formatting.dll
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\System.Web.Http.dll
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\System.Web.Http.WebHost.dll
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\Autofac.xml
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\Newtonsoft.Json.xml
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\System.Net.Http.Formatting.xml
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\System.Web.Http.xml
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\System.Web.Http.WebHost.xml
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\obj\Release\Bot Application1.dll
+C:\Users\mohamed_ait_salah\Documents\Visual Studio 2015\Projects\JarvisBot\JarvisBot\obj\Release\Bot Application1.pdb
